@@ -2,7 +2,7 @@
 Contact
 =======
 
-**Email:** geekboy71@icloud.com
+**Email:** andy@geekingoutwithpython.com
 
 **Phone:** +1 (317) 456-2130
 
